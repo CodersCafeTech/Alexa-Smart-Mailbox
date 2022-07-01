@@ -1,1 +1,1 @@
-# Alexa-Smart-Mailbox
+# Alexa Smart Mailbox
